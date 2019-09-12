@@ -2,7 +2,7 @@
 Aqui seguem códigos em Java que introduzem o conhecimento em Lógica de Programação, características com a criação de métodos e bibliotecas, também introduzindo a POO. 
 
 ### Validação do CPF
-###  Insira um CPF e o programa dirá se o mesmo é válido (existe) ou não. O programa verificará, por exemplo, a inserção de letras, o que não será aceito para a validação.
+####  Insira um CPF e o programa dirá se o mesmo é válido (existe) ou não. O programa verificará, por exemplo, a inserção de letras, o que não será aceito para a validação.
 
 ### Código do Empregado
 ### O programa retornará o salário do empregado após fazer as validações necessárias com o código do mesmo. O código deverá conter as duas primeiras letra do nome do funcionário e logo após, deverá conter três dígitos. 
